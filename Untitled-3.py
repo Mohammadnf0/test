@@ -1,1 +1,1 @@
-print(" korld L")
+print(" world L")
